@@ -14,7 +14,7 @@ import time
 import random
 import asyncio
 
-#the intents used in your bot
+#the intents used by the bot
 intents = discord.Intents.default()
 intents.message_content = True
 intents.members = True
